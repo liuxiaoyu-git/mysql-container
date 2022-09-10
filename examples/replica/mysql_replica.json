@@ -5,7 +5,7 @@
     "name": "mysql-replication-example",
     "annotations": {
       "description": "MySQL Replication Example",
-      "iconClass": "icon-database",
+      "iconClass": "icon-mysql-database",
       "tags": "database,mysql,replication"
     }
   },

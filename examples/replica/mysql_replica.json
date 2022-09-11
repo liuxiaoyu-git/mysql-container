@@ -2,11 +2,12 @@
   "kind": "Template",
   "apiVersion": "template.openshift.io/v1",
   "metadata": {
-    "name": "mysql-replication-example",
+    "name": "mysql-replication",
     "annotations": {
-      "description": "MySQL Replication Example",
+      "openshift.io/display-name": "MySQL Replication"
       "iconClass": "icon-mysql-database",
       "tags": "database,mysql,replication"
+      "description": "MySQL Replication includes a master and a slave mysql."
     }
   },
   "parameters": [
